@@ -1,0 +1,118 @@
+        .g { 
+            font-size:90px;
+            color: #3369e8; 
+        }
+        .o1 { 
+            font-size:90px;
+            color: #d50f25; 
+        }
+        .o2 { 
+            font-size:90px;
+            color: #f4c20d; 
+        }
+        .g2 { 
+            font-size:90px;
+            color: #3369e8;
+         }
+        .l { 
+            font-size:90px;
+            color: #009925;
+         }
+        .e { 
+            font-size:90px;
+            color: #d50f25;
+         }
+        .exclam { 
+            font-size:90px;
+            color: #3369e8;
+         }
+
+        .beta-label {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 25px;
+            color: #8f8e8e;
+            margin-top: -65px;
+            margin-right: -210px;
+            
+        }
+
+        .search-area {
+            margin-top: 30px;
+            background-color: #efefef;
+            padding: 20px;
+            border: 1px inset #ddd;
+            width: 755px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-box {
+            width: 300px;
+            padding: 5px;
+            font-size: 14px;
+            border: 2px inset #ccc;
+        }
+
+        .search-button {
+            margin-top: 7px;
+            padding: 4px 12px;
+            font-size: 13px;
+            font-family: Arial, sans-serif;
+            cursor: pointer;
+            border: 2px outset #ccc;
+            background-color: #f8f8f8;
+        }
+
+        .footer-container {
+            margin: 30px auto;
+            display: flex;
+            justify-content: center;
+            gap: 5px;
+            max-width: 800px;
+        }
+
+        .footer-box {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: #8dd3cf;
+            border: 1px solid #ffffff;
+            padding: 10px;
+            font-size: 13px;
+            text-align: center;
+            width: 33.3%;
+        }
+
+        .footer-box a {
+            color: blue;
+            text-decoration: underline;
+            display: block;
+            margin: 2px 0;
+        }
+
+        .footer-box small {
+            display: block;
+            margin-top: 10px;
+        }
+
+        .footer-box form input[type="text"] {
+            width: 90%;
+            padding: 4px;
+            font-size: 13px;
+            margin-top: 5px;
+            border: 2px inset #ccc;
+        }
+
+        .footer-box form input[type="submit"] {
+            margin-top: 5px;
+            padding: 4px 8px;
+            font-size: 13px;
+            border: 2px outset #ccc;
+            background-color: #f8f8f8;
+        }
+
+        .copyright {
+            margin-top: 20px;
+            font-size: 12px;
+            color: #000;
+        }
